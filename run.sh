@@ -1,0 +1,1 @@
+dosbox -c "boot build/main_floppy.img"
